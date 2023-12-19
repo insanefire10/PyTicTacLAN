@@ -7,7 +7,7 @@ How to play:
 1. Player 1 will run the PyTicTacToeHost.py file on their machine. After opening the script, the console will show you the IP address and port that the guest will have to enter in
 2. Player 2 will then run the PyTicTacToeGuest.py file on their machine. The console will ask them to enter in the IP and port.
 3. Once Player 2 connects to Player 1 (Host) the game will start immediately. to select which coordinate to place your marker on, enter the row number and column number seperated by a space
-
+<p>
 Ex:
 # # #    # # #
 # # # -> # # X
@@ -18,7 +18,7 @@ Player 1 would enter "2 3" to add an X
 # # # -> # # #
 # # #    # O #
 Player 2 would enter "3 2" to add an O
-
+</p>
 The game ends when a player gets 3 marks in a row
 
 Ending notes:
